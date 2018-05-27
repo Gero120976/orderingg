@@ -2,6 +2,9 @@
 
 Aplicación utilizada en la cursada 2018 de Ingenieria de Software. UTN-FRLP
 
+Apellido: Grilli
+Nombre: Geronimo
+
 ## Dependencias
 
 - python 3
