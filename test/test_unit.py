@@ -20,6 +20,11 @@ class OrderingTestCase(TestCase):
         )
         return app
 
+
+#hacer test
+
+
+
     # Creamos la base de datos de test
     def setUp(self):
         db.session.commit()
